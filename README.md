@@ -26,5 +26,5 @@ This is a simple quiz application built using [Open Trivia Database API](https:/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/quiz-app.git
-cd quiz-app
+git clone https://github.com/vinayakds03/QuizApp
+cd QuizApp
